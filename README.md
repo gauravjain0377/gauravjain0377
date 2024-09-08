@@ -10,7 +10,8 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=&logoColor=white)](https://www.linkedin.com/in/this-is-gaurav-jain/)
+[![LinkedIn](https://img.icons8.com/ios-filled/50/0077B5/linkedin.png)](https://www.linkedin.com/in/this-is-gaurav-jain/)
+
 
 
 
