@@ -1,4 +1,4 @@
-                                                                                            👋 Hi, I'm Gaurav Jain!
+👋 Hi, I'm Gaurav Jain!
 
 🎓 I'm a 2nd-year Bachelor of Technology student specializing in Information Technology at Poornima College of Engineering, Jaipur.
 
@@ -25,4 +25,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=gauravjain03&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
