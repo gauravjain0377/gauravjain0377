@@ -11,8 +11,11 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.icons8.com/ios-filled/50/0077B5/linkedin.png)](https://www.linkedin.com/in/this-is-gaurav-jain/) [![Twitter](https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png)](https://x.com/gauravjain345) <a href="https://www.instagram.com/gauravjain0377/?next=%2F" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/instagram-new.png" alt="Instagram">
+  <img src="/mnt/data/An_Instagram_logo_with_a_clean_and_simple_design,_.png" alt="Instagram">
 </a>
+
+
+
 
 
 
