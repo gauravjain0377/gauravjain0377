@@ -14,10 +14,6 @@
 <a href="https://www.instagram.com/gauravjain0377/?next=%2F">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHP2W0X8Bj9Wwou8Y5Iv2q_Aa-nME9SMwEAA&s" width="50" height="50" alt="Instagram">
 </a>
-<a href="https://www.linkedin.com/in/this-is-gaurav-jain/">
-  <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" width="50" height="50" alt="LinkedIn">
-</a>
-
 
 
 
