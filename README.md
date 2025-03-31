@@ -6,7 +6,7 @@
 
 📚 I'm currently working on expanding my knowledge and skills through various projects and collaborations.
 
-🌟 I'm excited to connect with fellow developers and tech enthusiasts!
+🌟 I'm excited to connect with fellow developers ---and tech enthusiasts!
 
 
 ## 🌐 Socials:
