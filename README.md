@@ -1,6 +1,6 @@
 👋 Hi, I'm Gaurav Jain!
 
-🎓 I'm a 2nd-year Bachelor of Technology student specializing in Information Technology at Poornima College of Engineering, Jaipur.
+🎓 I'm a 3rd-year Bachelor of Technology student specializing in Information Technology at Poornima College of Engineering, Jaipur.
 
 🚀 I have a keen interest in technology and am always eager to learn and explore new areas in IT. Whether it's coding, software development, or diving deep into data, I'm passionate about it all.
 
