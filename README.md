@@ -10,7 +10,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.icons8.com/ios-filled/50/0077B5/linkedin.png)](https://www.linkedin.com/in/this-is-gaurav-jain/) [![Twitter](https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png)](https://x.com/gauravjain0377))
+[![LinkedIn](https://img.icons8.com/ios-filled/50/0077B5/linkedin.png)](https://www.linkedin.com/in/this-is-gaurav-jain/) [![Twitter](https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png)](https://x.com/gauravjain0377)
 
 
 
