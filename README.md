@@ -31,11 +31,11 @@
 <div align="center">
 
 <a href="https://www.gauravjain.tech">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐_Portfolio-0A66C2?style=for-the-badge"/>
 </a>
 
-<a href="[YOUR_RESUME_LINK](https://www.gauravjain.tech/resume.pdf)">
-<img src="https://img.shields.io/badge/📄_Resume-View_CV-FF6B6B?style=for-the-badge"/>
+<a href="https://www.gauravjain.tech/resume.pdf">
+<img src="https://img.shields.io/badge/📄_Resume-FF6B6B?style=for-the-badge"/>
 </a>
 
 </div>
