@@ -28,9 +28,9 @@
 
 ## 👤 About Me
 
-Final-year IT student at Poornima College of Engineering (Batch 2027). I build full-stack web applications and AI-powered tools — products that work under real conditions, not just demos.
+Final-year IT student at Poornima College of Engineering (Batch 2027). I build full-stack web applications and AI-powered tools - products that work under real conditions, not just demos.
 
-My recent work focuses on LLM integration: wiring Gemini and OpenAI APIs into things that handle real workflows. I care about architecture before code — clear API contracts, predictable data flow, and backends that don't break under load.
+My recent work focuses on LLM integration: wiring Gemini and OpenAI APIs into things that handle real workflows. I care about architecture before code - clear API contracts, predictable data flow, and backends that don't break under load.
 
 📍 **Open to internships and full-time roles** · Remote · Jaipur
 
@@ -40,9 +40,9 @@ My recent work focuses on LLM integration: wiring Gemini and OpenAI APIs into th
 
 | Project | Description | Stack |
 |---|---|---|
-| [**InboxPilot-AI**](https://github.com/gauravjain0377/InboxPilot-AI) | AI-powered email management — triage, follow-up automation, inbox prioritization with LLM classification | Next.js · TypeScript · OpenAI |
+| [**InboxPilot-AI**](https://github.com/gauravjain0377/InboxPilot-AI) | AI-powered email management - triage, follow-up automation, inbox prioritization with LLM classification | Next.js · TypeScript · OpenAI |
 | [**StockSathi**](https://github.com/gauravjain0377/StockSathi) | Full-stack stock trading platform with buy/sell, holdings tracking, real-time order history | React · Node.js · MongoDB |
-| [**HackZen**](https://github.com/gauravjain0377/HackZen) | Hackathon management system — registration, team formation, judging, live chat, badge system | MERN Stack |
+| [**HackZen**](https://github.com/gauravjain0377/HackZen) | Hackathon management system - registration, team formation, judging, live chat, badge system | MERN Stack |
 | [**HumanWrites**](https://github.com/gauravjain0377/humanwrites) | Open-source tool that detects and removes 33 AI writing patterns. Published on npm v2.0.3 | Node.js · TypeScript |
 
 ---
