@@ -5,24 +5,42 @@
 <div align="center">
 
 <a href="https://linkedin.com/in/gauravjain0377">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
 <a href="mailto:gauravjain0377@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 
 <a href="https://x.com/gauravjain0377">
-<img src="https://cdn.simpleicons.org/x/white" height="50"/>
+<img src="https://cdn.simpleicons.org/x/white" height="40"/>
 </a>
 
 <a href="https://instagram.com/gauravjain0377">
-<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
 
 </div>
 
 </div>
+
+---
+
+<br/>
+
+<div align="center">
+
+<a href="https://www.gauravjain.tech">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-0A66C2?style=for-the-badge"/>
+</a>
+
+<a href="[YOUR_RESUME_LINK](https://www.gauravjain.tech/resume.pdf)">
+<img src="https://img.shields.io/badge/📄_Resume-View_CV-FF6B6B?style=for-the-badge"/>
+</a>
+
+</div>
+
+<br/>
 
 ---
 
@@ -59,7 +77,7 @@ My recent work focuses on LLM integration: wiring Gemini and OpenAI APIs into th
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 ### Frontend
 
@@ -70,7 +88,7 @@ My recent work focuses on LLM integration: wiring Gemini and OpenAI APIs into th
 <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 ### Backend & APIs
 
@@ -79,7 +97,7 @@ My recent work focuses on LLM integration: wiring Gemini and OpenAI APIs into th
 <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Modular_Architecture-2E8B57?style=for-the-badge"/>
 
-<br/><br/>
+<br/>
 
 ### Databases
 
@@ -95,7 +113,7 @@ My recent work focuses on LLM integration: wiring Gemini and OpenAI APIs into th
 <img src="https://img.shields.io/badge/Prompt_Engineering-10A37F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LLM_Integration-FF6F00?style=for-the-badge"/>
 
-<br/><br/>
+<br/>
 
 ### Cloud & Deployment
 
@@ -104,7 +122,7 @@ My recent work focuses on LLM integration: wiring Gemini and OpenAI APIs into th
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 ### Tools & Platforms
 
@@ -115,7 +133,7 @@ My recent work focuses on LLM integration: wiring Gemini and OpenAI APIs into th
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 ### CS Fundamentals
 
