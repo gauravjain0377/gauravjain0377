@@ -1,14 +1,9 @@
-<!-- HEADER BANNER - Capsule Render -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=120&section=header" />
-
 <div align="center">
 
-<!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Gaurav+%F0%9F%91%8B;Full+Stack+%2B+AI+Developer;Building+things+that+work+under+pressure" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- CONNECT BADGES - top -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravjain0377)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravjain0377@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/gauravjain0377)
@@ -24,7 +19,7 @@ Final-year IT student at Poornima College of Engineering (Batch 2027). I build f
 
 My recent work focuses on LLM integration: wiring Gemini and OpenAI APIs into things that handle real workflows. I care about architecture before code — clear API contracts, predictable data flow, and backends that don't break under load.
 
-📍 **Open to internships and full-time roles** · Remote · Delhi NCR · Jaipur
+📍 **Open to internships and full-time roles** · Remote · Jaipur
 
 ---
 
@@ -93,8 +88,6 @@ My recent work focuses on LLM integration: wiring Gemini and OpenAI APIs into th
 
 ## 🐍 Contribution Snake
 
-> **Setup required once** — see instructions below the image.
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gauravjain0377/gauravjain0377/output/github-snake-dark.svg" />
@@ -103,40 +96,8 @@ My recent work focuses on LLM integration: wiring Gemini and OpenAI APIs into th
   </picture>
 </div>
 
-<!-- 
-  TO ACTIVATE THE SNAKE:
-  1. In your gauravjain0377 profile repo, create .github/workflows/snake.yml
-  2. Paste this content:
-
-  name: Generate Snake
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch:
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: gauravjain0377
-            outputs: |
-              dist/github-snake.svg
-              dist/github-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  3. Go to Actions tab → Run workflow manually once
-  4. The snake SVGs will appear at the output branch and load above automatically
--->
-
 ---
 
-<!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=100&section=footer" />
 
 <div align="right">
