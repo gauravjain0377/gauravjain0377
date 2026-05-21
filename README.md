@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=gauravjain0377&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Gaurav+%F0%9F%91%8B;Full+Stack+%2B+AI+Developer;Building+things+that+work+under+pressure" alt="Typing SVG" />
 
 <br/><br/>
@@ -61,7 +57,7 @@ My recent work focuses on LLM integration: wiring Gemini and OpenAI APIs into th
 
 Java • JavaScript • TypeScript • HTML • CSS
 
-<br/><br/>
+<br/>
 
 ### Frontend
 
@@ -69,7 +65,7 @@ Java • JavaScript • TypeScript • HTML • CSS
 
 React • Next.js • Tailwind CSS • Bootstrap • Sass
 
-<br/><br/>
+<br/>
 
 ### Backend & Database
 
@@ -77,7 +73,7 @@ React • Next.js • Tailwind CSS • Bootstrap • Sass
 
 Node.js • Express.js • MongoDB • MySQL
 
-<br/><br/>
+<br/>
 
 ### Cloud & Tools
 
@@ -85,7 +81,7 @@ Node.js • Express.js • MongoDB • MySQL
 
 Git • GitHub • Postman • AWS • GCP • Vercel • VS Code
 
-<br/><br/>
+<br/>
 
 ### AI
 
@@ -99,7 +95,9 @@ Gemini API • OpenAI API • Prompt Engineering • LLM Integration • REST AP
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gauravjain0377&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gauravjain0377&theme=github_dark"/>
+
+<br/><br/>
 
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gauravjain0377&layout=compact&theme=github_dark&hide_border=true"/>
 
