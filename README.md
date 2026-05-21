@@ -1,3 +1,5 @@
+<div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Gaurav+%F0%9F%91%8B;Full+Stack+%2B+AI+Developer;Building+things+that+work+under+pressure" alt="Typing SVG" />
 
 <br/><br/>
@@ -50,7 +52,7 @@ Final-year IT student at Poornima College of Engineering (Batch 2027). I build f
 
 My recent work focuses on LLM integration: wiring Gemini and OpenAI APIs into things that handle real workflows. I care about architecture before code - clear API contracts, predictable data flow, and backends that don't break under load.
 
-📍 **Open to internships and full-time roles** · Remote · Jaipur
+📍 **Open to internships and full-time roles** · Remote · India (On-Site)
 
 ---
 
@@ -104,7 +106,7 @@ My recent work focuses on LLM integration: wiring Gemini and OpenAI APIs into th
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 ### AI & LLM Integration
 
