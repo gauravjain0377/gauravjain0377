@@ -53,39 +53,78 @@ My recent work focuses on LLM integration: wiring Gemini and OpenAI APIs into th
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,html,css"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-Java • JavaScript • TypeScript • HTML • CSS
-
-<br/>
+<br/><br/>
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,sass"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white"/>
 
-React • Next.js • Tailwind CSS • Bootstrap • Sass
+<br/><br/>
 
-<br/>
+### Backend & APIs
 
-### Backend & Database
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Modular_Architecture-2E8B57?style=for-the-badge"/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+<br/><br/>
 
-Node.js • Express.js • MongoDB • MySQL
+### Databases
 
-<br/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-### Cloud & Tools
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,aws,gcp,vercel,vscode"/>
+### AI & LLM Integration
 
-Git • GitHub • Postman • AWS • GCP • Vercel • VS Code
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-10A37F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM_Integration-FF6F00?style=for-the-badge"/>
 
-<br/>
+<br/><br/>
 
-### AI
+### Cloud & Deployment
 
-Gemini API • OpenAI API • Prompt Engineering • LLM Integration • REST APIs • Socket.io
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+
+<br/><br/>
+
+### Tools & Platforms
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+<br/><br/>
+
+### CS Fundamentals
+
+<img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SDLC-228B22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OS-8B0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-4169E1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer_Networking-DAA520?style=for-the-badge"/>
 
 </div>
 
@@ -103,7 +142,7 @@ Gemini API • OpenAI API • Prompt Engineering • LLM Integration • REST AP
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravjain0377&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=gauravjain0377&theme=tokyonight&hide_border=true"/>
 
 </div>
 
