@@ -1,4 +1,6 @@
-<div align="center">
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=gauravjain0377&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Gaurav+%F0%9F%91%8B;Full+Stack+%2B+AI+Developer;Building+things+that+work+under+pressure" alt="Typing SVG" />
 
@@ -54,32 +56,40 @@ My recent work focuses on LLM integration: wiring Gemini and OpenAI APIs into th
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=java,js,ts,html,css&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=java,js,ts,html,css"/>
+
+Java • JavaScript • TypeScript • HTML • CSS
+
+<br/><br/>
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,sass&theme=dark" />
 
-### Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,sass"/>
 
-### AI & Cloud & Tools
-<img src="https://skillicons.dev/icons?i=gcp,aws,vercel,netlify,git,github,postman,vscode&theme=dark" />
+React • Next.js • Tailwind CSS • Bootstrap • Sass
 
-</div>
+<br/><br/>
 
-<br/>
+### Backend & Database
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
 
-<!-- AI/LLM — text badges since no icons exist for these -->
-![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-10A37F?style=flat-square&logo=openai&logoColor=white)
-![LLM Integration](https://img.shields.io/badge/LLM_Integration-FF6F00?style=flat-square&logo=googlebard&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![REST API](https://img.shields.io/badge/RESTful_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+Node.js • Express.js • MongoDB • MySQL
+
+<br/><br/>
+
+### Cloud & Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,aws,gcp,vercel,vscode"/>
+
+Git • GitHub • Postman • AWS • GCP • Vercel • VS Code
+
+<br/><br/>
+
+### AI
+
+Gemini API • OpenAI API • Prompt Engineering • LLM Integration • REST APIs • Socket.io
 
 </div>
 
@@ -89,13 +99,13 @@ My recent work focuses on LLM integration: wiring Gemini and OpenAI APIs into th
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=gauravjain0377&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117" />
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravjain0377&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gauravjain0377&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gauravjain0377&layout=compact&theme=github_dark&hide_border=true"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=gauravjain0377&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravjain0377&theme=github-dark&hide_border=true"/>
 
 </div>
 
