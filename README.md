@@ -6,11 +6,11 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/gauravjain0377">
+<a href="https://linkedin.com/in/this-is-gaurav-jain">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
-<a href="mailto:gauravjain0377@gmail.com">
+<a href="mailto:gjain0229@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 
@@ -132,19 +132,9 @@ My recent work focuses on LLM integration: wiring Gemini and OpenAI APIs into th
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 <br/>
-
-### CS Fundamentals
-
-<img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OOP-6A5ACD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SDLC-228B22?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OS-8B0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DBMS-4169E1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer_Networking-DAA520?style=for-the-badge"/>
 
 </div>
 
